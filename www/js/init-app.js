@@ -3,7 +3,7 @@
  */
 
 
-/*jslint browser:true, devel:true, white:true, vars:true */
+/*jslint browser:false, devel:false, white:false, vars:false */
 /*global $:false, intel:false, app:false, dev:false */
 /*global myEventHandler:false, cordova:false, device:false */
 
